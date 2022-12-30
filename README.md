@@ -12,7 +12,7 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 
 <h2>Environments and Technologies Used</h2>
 
-- Oracle VirtualBox
+- Oracle VirtualBox Type II Hypervisor
 
 <h2>Operating Systems Used </h2>
 

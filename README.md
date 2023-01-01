@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites and installation of Oracle VirtualBox.<
 <img src="https://i.imgur.com/BLEiEBw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to https://www.virtualbox.org
+Navigate to https://www.virtualbox.org and click on the 'Download VirtualBox 7.0' icon
 </p>
 <br />
 
@@ -97,6 +97,46 @@ If you do not have Microsoft Visual C++, then go to https://www.google.com and s
 </p>
 <p>
 Select the link that that shows Latest supported Visual C++ Redistributable downloads and select X64.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uqW4fqR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Once you have downloaded C++,launch the .exe file in order to install it.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download VirtualBox Extension Pack.  Does not matter which OS you're running.
 </p>
 <br />
 

@@ -197,18 +197,18 @@ Installation is complete.  UNSELECT 'Start Oracle VM VirtualBox' and click 'Fini
 <br />
 
 <p>
-<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1Cy2ihq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+Go back to your 'Downloads' folder and open the Oracle_VM_VirtualBox_Extension_Pack
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FXiJLG6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+Once you launch the Extension Pack, select Install
 </p>
 <br />
 

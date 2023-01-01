@@ -184,15 +184,15 @@ Network Interface Warning.  Select 'Yes'
 <img src="https://i.imgur.com/SXcbcip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The installation wiard is now ready to begin installation.  Select 'Install'
+The installation wizard is now ready to begin installation.  Select 'Install'
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ks1GMcd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download VirtualBox E
+Installation is complete.  UNSELECT 'Start Oracle VM VirtualBox' and click 'Finish'
 </p>
 <br />
 

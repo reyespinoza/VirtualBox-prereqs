@@ -157,7 +157,7 @@ Next, you will launch the setup wizard for VirtualBox.  The application file wil
 <br />
 
 <p>
-<img src="(https://i.imgur.com/UOdm7U9.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UOdm7U9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The next four steps will be to select 'Next'
@@ -178,7 +178,7 @@ Here you will select the file loacation that you want VirtualBox to be saved in.
 <p>
 Network Interface Warning.  Select 'Yes'
 </p>
-(br />
+<br />
 
 <p>
 <img src="https://i.imgur.com/SXcbcip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

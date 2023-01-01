@@ -72,7 +72,7 @@ Download VirtualBox Extension Pack.  Does not matter which OS you're running.
 <img src="https://i.imgur.com/VFSCsOk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate to your Control Pannel and select Programs and Features
+Navigate to your Control Pannel and select Programs and Features.
 </p>
 <br />
 

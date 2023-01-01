@@ -213,25 +213,17 @@ Once you launch the Extension Pack, select Install
 <br />
 
 <p>
-<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8YM70eV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download VirtualBox Extension Pack.  Does not matter which OS you're running.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+Scroll to the bottom of the license and select 'I Agree'
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/unpgiis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+You are now complete with the installation process of Oracle VirtualBox
 </p>
 <br />

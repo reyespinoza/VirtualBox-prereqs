@@ -109,10 +109,90 @@ Once you have downloaded C++,launch the .exe file in order to install it.
 <br />
 
 <p>
+<img src="https://i.imgur.com/ZzVqSPM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This step is optional.  If you don't have Python, go to https://www.python.org and hover your cursor over the 'Downloads' section and select 'Download Python 3.11.1
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5qwLj8R.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Launch the setup wizard for Python. MAKE SURE TO SELECT 'Add pythor.exe to PATH'
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/k6bF6Pl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After successful installation of Python, launch your command prompt (CMD) and run it as an Administrator
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ttaxygO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In CMD, type the following command and press enter: pip install pywin32
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/G5s94Xm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If successful, you will get a reply that states: 'Succesfully installed pywin32-.05.  If unable to install, make sure you're running as an administrator.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0Eao4JG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, you will launch the setup wizard for VirtualBox.  The application file will be in your 'Downloads' folder
+</p>
+<br />
+
+<p>
+<img src="(https://i.imgur.com/UOdm7U9.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The next four steps will be to select 'Next'
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/sCTxEWv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Here you will select the file loacation that you want VirtualBox to be saved in.  Select 'Next'
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MEC1bsS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Network Interface Warning.  Select 'Yes'
+</p>
+(br />
+
+<p>
+<img src="https://i.imgur.com/SXcbcip.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The installation wiard is now ready to begin installation.  Select 'Install'
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/uMexifV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download VirtualBox Extension Pack.  Does not matter which OS you're running.
+Download VirtualBox E
 </p>
 <br />
 
